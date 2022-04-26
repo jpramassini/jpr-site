@@ -1,11 +1,11 @@
 # From https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
-name: github pages
+name: Github Pages
 
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main  # Set a branch to deploy
   pull_request:
 
 jobs:
