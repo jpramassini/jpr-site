@@ -1,7 +1,6 @@
 ---
 title: "The Magic of 4 AM"
 date: 2022-06-14T04:30:25-04:00
-draft: true
 description: "The questionably coherent stream of consciousness of a sleep deprived guy on how weird The World is."
 ---
 
